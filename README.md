@@ -57,7 +57,7 @@ Welcome to the **AWS Billing Alert Terraform module!** This module helps you set
 3. Clone the repository:  
 
    ```bash  
-   git clone https://github.com/NotHarshhaa/aws-billing-alert-terraform.git  
+   git clone https://github.com/Haswanth/aws-billing-alert-terraform.git  
    ```  
 
 4. Move into the directory:  
