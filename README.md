@@ -157,7 +157,7 @@ Here’s an example configuration:
 
 ```hcl  
 module "billing_alert" {  
-  source                     = "github.com/NotHarshhaa/aws-billing-alert-terraform"  
+  source                     = "github.com/Haswanth/aws-billing-alert-terraform"  
   aws_region                 = "us-west-2"  
   alert_thresholds           = [100, 150, 200]  
   email_endpoints            = ["my-email@example.com", "finance@example.com"]  
