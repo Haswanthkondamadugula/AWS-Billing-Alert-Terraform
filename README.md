@@ -1,6 +1,7 @@
 # 🚀 AWS Billing Alert Terraform Module  
 
-![AWS-billing](https://github.com/user-attachments/assets/8e779cd7-68a8-4ec3-92f4-74fccc8bd773")
+![image](https://github.com/user-attachments/assets/c475fde5-8718-4e91-b577-0ce2096c958d)
+
 
 
 Welcome to the **AWS Billing Alert Terraform module!** This module helps you set up automatic billing alerts for your AWS account. Once configured, you'll receive notifications when your AWS charges exceed specified amounts, helping you stay on top of your costs. 💰  
