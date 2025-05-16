@@ -183,10 +183,3 @@ This module is flexible and supports dynamic region, currency, and threshold con
 
 > [!IMPORTANT]  
 > _If you find this repository helpful for learning or in practice, **please hit the star button on GitHub.** ⭐ It helps others find this resource too!_
-
-### 👤 Author  
-
-![banner](https://imgur.com/2j7GSPs.png)
-
-> [!TIP]  
-> **Join Our [Telegram Community](https://t.me/prodevopsguy) || [Follow me on GitHub](https://github.com/NotHarshhaa) for more DevOps content!**
